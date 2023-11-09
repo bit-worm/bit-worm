@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @bit-worm
 - 👀 I’m interested in Web Development, Game Development, Emersive Technologies, Desktop and Mobile app development
 - 🌱 I’m currently learning C# and .NET
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on software development projects
+- 📫 How to reach me on:
+-                       email: bonifacewafula005@gmail.com
+-                       call:  +254 707592157
+-                       X:     twitter.com/bit_worm_
 
 <!---
 bit-worm/bit-worm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
