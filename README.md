@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bit-worm
 - 👀 I’m interested in Web Development, Game Development, Emersive Technologies, Desktop and Mobile app development
-- 🌱 I’m currently learning C# and .NET
+- 🌱 I’m currently learning rust, html and JavaScript
 - 💞️ I’m looking to collaborate on software development projects
 - 📫 How to reach me:
 -       bonifacewafula005@gmail.com
